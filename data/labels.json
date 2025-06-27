@@ -1,0 +1,1676 @@
+{
+    "cucumber_1.jpg": {
+        "bbox": [
+            23,
+            42,
+            183,
+            157
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_10.jpg": {
+        "bbox": [
+            13,
+            70,
+            206,
+            90
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_11.jpg": {
+        "bbox": [
+            8,
+            42,
+            213,
+            158
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_12.jpg": {
+        "bbox": [
+            22,
+            67,
+            196,
+            91
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_13.jpg": {
+        "bbox": [
+            15,
+            56,
+            197,
+            100
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_14.jpg": {
+        "bbox": [
+            24,
+            82,
+            180,
+            72
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_15.jpg": {
+        "bbox": [
+            40,
+            89,
+            176,
+            132
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_16.jpg": {
+        "bbox": [
+            14,
+            44,
+            194,
+            161
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_17.jpg": {
+        "bbox": [
+            28,
+            71,
+            165,
+            103
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_18.jpg": {
+        "bbox": [
+            53,
+            86,
+            96,
+            89
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_19.jpg": {
+        "bbox": [
+            32,
+            74,
+            168,
+            58
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_2.jpg": {
+        "bbox": [
+            6,
+            74,
+            215,
+            83
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_20.jpg": {
+        "bbox": [
+            12,
+            51,
+            204,
+            114
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_21.jpg": {
+        "bbox": [
+            16,
+            82,
+            192,
+            90
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_22.jpg": {
+        "bbox": [
+            26,
+            22,
+            175,
+            150
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_23.jpg": {
+        "bbox": [
+            8,
+            71,
+            207,
+            81
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_24.jpg": {
+        "bbox": [
+            13,
+            129,
+            183,
+            41
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_25.jpg": {
+        "bbox": [
+            7,
+            82,
+            212,
+            109
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_26.jpg": {
+        "bbox": [
+            31,
+            73,
+            178,
+            69
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_27.jpg": {
+        "bbox": [
+            96,
+            63,
+            123,
+            101
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_28.jpg": {
+        "bbox": [
+            24,
+            61,
+            172,
+            124
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_29.jpg": {
+        "bbox": [
+            14,
+            97,
+            200,
+            87
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_3.jpg": {
+        "bbox": [
+            8,
+            38,
+            211,
+            142
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_30.jpg": {
+        "bbox": [
+            24,
+            26,
+            176,
+            171
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_31.jpg": {
+        "bbox": [
+            36,
+            11,
+            179,
+            196
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_32.jpg": {
+        "bbox": [
+            74,
+            37,
+            76,
+            150
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_33.jpg": {
+        "bbox": [
+            21,
+            29,
+            181,
+            169
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_34.jpg": {
+        "bbox": [
+            16,
+            52,
+            194,
+            132
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_35.jpg": {
+        "bbox": [
+            4,
+            35,
+            221,
+            161
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_36.jpg": {
+        "bbox": [
+            29,
+            74,
+            166,
+            47
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_37.jpg": {
+        "bbox": [
+            29,
+            77,
+            180,
+            95
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_38.jpg": {
+        "bbox": [
+            38,
+            57,
+            169,
+            134
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_39.jpg": {
+        "bbox": [
+            37,
+            25,
+            155,
+            155
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_4.jpg": {
+        "bbox": [
+            12,
+            47,
+            205,
+            88
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_40.jpg": {
+        "bbox": [
+            25,
+            67,
+            176,
+            96
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_41.jpg": {
+        "bbox": [
+            9,
+            85,
+            212,
+            56
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_42.jpg": {
+        "bbox": [
+            22,
+            22,
+            196,
+            180
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_43.jpg": {
+        "bbox": [
+            11,
+            136,
+            187,
+            43
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_44.jpg": {
+        "bbox": [
+            16,
+            77,
+            194,
+            62
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_45.jpg": {
+        "bbox": [
+            11,
+            31,
+            206,
+            177
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_46.jpg": {
+        "bbox": [
+            16,
+            66,
+            208,
+            77
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_47.jpg": {
+        "bbox": [
+            27,
+            62,
+            185,
+            76
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_48.jpg": {
+        "bbox": [
+            35,
+            71,
+            162,
+            101
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_49.jpg": {
+        "bbox": [
+            18,
+            78,
+            172,
+            81
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_5.jpg": {
+        "bbox": [
+            25,
+            70,
+            176,
+            76
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_50.jpg": {
+        "bbox": [
+            24,
+            63,
+            179,
+            98
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_51.jpg": {
+        "bbox": [
+            7,
+            17,
+            213,
+            182
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_52.jpg": {
+        "bbox": [
+            22,
+            91,
+            176,
+            60
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_53.jpg": {
+        "bbox": [
+            35,
+            81,
+            170,
+            77
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_54.jpg": {
+        "bbox": [
+            32,
+            48,
+            168,
+            132
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_55.jpg": {
+        "bbox": [
+            61,
+            84,
+            105,
+            74
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_56.jpg": {
+        "bbox": [
+            17,
+            98,
+            194,
+            34
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_57.jpg": {
+        "bbox": [
+            30,
+            80,
+            167,
+            51
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_58.jpg": {
+        "bbox": [
+            43,
+            43,
+            134,
+            122
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_59.jpg": {
+        "bbox": [
+            8,
+            37,
+            215,
+            150
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_6.jpg": {
+        "bbox": [
+            3,
+            13,
+            223,
+            175
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_60.jpg": {
+        "bbox": [
+            55,
+            58,
+            164,
+            143
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_61.jpg": {
+        "bbox": [
+            25,
+            35,
+            185,
+            135
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_62.jpg": {
+        "bbox": [
+            21,
+            26,
+            186,
+            159
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_63.jpg": {
+        "bbox": [
+            33,
+            55,
+            166,
+            87
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_7.jpg": {
+        "bbox": [
+            78,
+            17,
+            75,
+            200
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_8.jpg": {
+        "bbox": [
+            22,
+            62,
+            175,
+            119
+        ],
+        "class": "cucumber"
+    },
+    "cucumber_9.jpg": {
+        "bbox": [
+            29,
+            81,
+            172,
+            99
+        ],
+        "class": "cucumber"
+    },
+    "eggplant_1.jpg": {
+        "bbox": [
+            2,
+            5,
+            212,
+            220
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_10.jpg": {
+        "bbox": [
+            22,
+            51,
+            169,
+            146
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_11.jpg": {
+        "bbox": [
+            49,
+            37,
+            143,
+            135
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_12.jpg": {
+        "bbox": [
+            56,
+            29,
+            126,
+            191
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_13.jpg": {
+        "bbox": [
+            25,
+            64,
+            153,
+            120
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_14.jpg": {
+        "bbox": [
+            59,
+            41,
+            147,
+            108
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_15.jpg": {
+        "bbox": [
+            23,
+            51,
+            155,
+            164
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_16.jpg": {
+        "bbox": [
+            11,
+            44,
+            177,
+            99
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_17.jpg": {
+        "bbox": [
+            41,
+            58,
+            138,
+            99
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_18.jpg": {
+        "bbox": [
+            16,
+            24,
+            194,
+            149
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_19.jpg": {
+        "bbox": [
+            15,
+            85,
+            182,
+            64
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_2.jpg": {
+        "bbox": [
+            32,
+            41,
+            160,
+            157
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_20.jpg": {
+        "bbox": [
+            50,
+            38,
+            128,
+            175
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_21.jpg": {
+        "bbox": [
+            44,
+            95,
+            157,
+            87
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_22.jpg": {
+        "bbox": [
+            38,
+            27,
+            177,
+            128
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_23.jpg": {
+        "bbox": [
+            15,
+            4,
+            200,
+            181
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_24.jpg": {
+        "bbox": [
+            44,
+            39,
+            134,
+            115
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_25.jpg": {
+        "bbox": [
+            25,
+            25,
+            142,
+            173
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_26.jpg": {
+        "bbox": [
+            40,
+            70,
+            139,
+            98
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_27.jpg": {
+        "bbox": [
+            71,
+            40,
+            127,
+            112
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_28.jpg": {
+        "bbox": [
+            54,
+            58,
+            169,
+            132
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_29.jpg": {
+        "bbox": [
+            1,
+            17,
+            221,
+            209
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_3.jpg": {
+        "bbox": [
+            19,
+            42,
+            194,
+            144
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_30.jpg": {
+        "bbox": [
+            62,
+            76,
+            109,
+            115
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_31.jpg": {
+        "bbox": [
+            34,
+            35,
+            160,
+            151
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_32.jpg": {
+        "bbox": [
+            20,
+            72,
+            191,
+            80
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_33.jpg": {
+        "bbox": [
+            22,
+            34,
+            173,
+            131
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_34.jpg": {
+        "bbox": [
+            7,
+            25,
+            203,
+            197
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_35.jpg": {
+        "bbox": [
+            28,
+            70,
+            153,
+            107
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_36.jpg": {
+        "bbox": [
+            32,
+            56,
+            173,
+            128
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_37.jpg": {
+        "bbox": [
+            34,
+            34,
+            54,
+            167
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_38.jpg": {
+        "bbox": [
+            19,
+            49,
+            191,
+            120
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_39.jpg": {
+        "bbox": [
+            17,
+            30,
+            195,
+            156
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_4.jpg": {
+        "bbox": [
+            36,
+            72,
+            169,
+            115
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_40.jpg": {
+        "bbox": [
+            5,
+            12,
+            185,
+            197
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_41.jpg": {
+        "bbox": [
+            20,
+            54,
+            166,
+            102
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_42.jpg": {
+        "bbox": [
+            16,
+            33,
+            177,
+            128
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_43.jpg": {
+        "bbox": [
+            56,
+            35,
+            89,
+            177
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_44.jpg": {
+        "bbox": [
+            21,
+            59,
+            171,
+            112
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_45.jpg": {
+        "bbox": [
+            6,
+            53,
+            189,
+            125
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_46.jpg": {
+        "bbox": [
+            64,
+            48,
+            102,
+            100
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_47.jpg": {
+        "bbox": [
+            29,
+            74,
+            157,
+            98
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_48.jpg": {
+        "bbox": [
+            8,
+            31,
+            211,
+            189
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_49.jpg": {
+        "bbox": [
+            35,
+            37,
+            171,
+            118
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_5.jpg": {
+        "bbox": [
+            38,
+            46,
+            157,
+            154
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_50.jpg": {
+        "bbox": [
+            12,
+            86,
+            176,
+            104
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_51.jpg": {
+        "bbox": [
+            51,
+            59,
+            140,
+            105
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_52.jpg": {
+        "bbox": [
+            56,
+            85,
+            115,
+            97
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_53.jpg": {
+        "bbox": [
+            29,
+            36,
+            142,
+            162
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_54.jpg": {
+        "bbox": [
+            52,
+            23,
+            161,
+            179
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_55.jpg": {
+        "bbox": [
+            17,
+            44,
+            96,
+            132
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_56.jpg": {
+        "bbox": [
+            31,
+            67,
+            184,
+            93
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_57.jpg": {
+        "bbox": [
+            57,
+            64,
+            118,
+            91
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_58.jpg": {
+        "bbox": [
+            26,
+            45,
+            162,
+            155
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_59.jpg": {
+        "bbox": [
+            8,
+            49,
+            205,
+            165
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_6.jpg": {
+        "bbox": [
+            24,
+            83,
+            198,
+            61
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_60.jpg": {
+        "bbox": [
+            24,
+            75,
+            160,
+            86
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_61.jpg": {
+        "bbox": [
+            24,
+            11,
+            191,
+            201
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_62.jpg": {
+        "bbox": [
+            67,
+            22,
+            110,
+            193
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_7.jpg": {
+        "bbox": [
+            51,
+            49,
+            149,
+            149
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_8.jpg": {
+        "bbox": [
+            17,
+            46,
+            165,
+            140
+        ],
+        "class": "eggplant"
+    },
+    "eggplant_9.jpg": {
+        "bbox": [
+            11,
+            64,
+            168,
+            138
+        ],
+        "class": "eggplant"
+    },
+    "mushroom_1.jpg": {
+        "bbox": [
+            44,
+            66,
+            111,
+            101
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_10.jpg": {
+        "bbox": [
+            38,
+            47,
+            89,
+            107
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_11.jpg": {
+        "bbox": [
+            39,
+            27,
+            165,
+            166
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_12.jpg": {
+        "bbox": [
+            87,
+            21,
+            118,
+            172
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_13.jpg": {
+        "bbox": [
+            22,
+            8,
+            178,
+            185
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_14.jpg": {
+        "bbox": [
+            32,
+            35,
+            159,
+            162
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_15.jpg": {
+        "bbox": [
+            102,
+            27,
+            105,
+            141
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_16.jpg": {
+        "bbox": [
+            43,
+            20,
+            154,
+            162
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_17.jpg": {
+        "bbox": [
+            99,
+            18,
+            112,
+            168
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_18.jpg": {
+        "bbox": [
+            55,
+            46,
+            89,
+            168
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_19.jpg": {
+        "bbox": [
+            66,
+            23,
+            130,
+            167
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_2.jpg": {
+        "bbox": [
+            34,
+            31,
+            154,
+            170
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_20.jpg": {
+        "bbox": [
+            49,
+            86,
+            134,
+            99
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_21.jpg": {
+        "bbox": [
+            77,
+            79,
+            67,
+            134
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_22.jpg": {
+        "bbox": [
+            32,
+            52,
+            164,
+            113
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_23.jpg": {
+        "bbox": [
+            8,
+            5,
+            218,
+            221
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_24.jpg": {
+        "bbox": [
+            33,
+            67,
+            158,
+            122
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_25.jpg": {
+        "bbox": [
+            66,
+            32,
+            98,
+            169
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_26.jpg": {
+        "bbox": [
+            68,
+            37,
+            88,
+            163
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_27.jpg": {
+        "bbox": [
+            49,
+            18,
+            132,
+            202
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_28.jpg": {
+        "bbox": [
+            60,
+            10,
+            136,
+            178
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_29.jpg": {
+        "bbox": [
+            27,
+            72,
+            155,
+            137
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_3.jpg": {
+        "bbox": [
+            22,
+            26,
+            184,
+            171
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_30.jpg": {
+        "bbox": [
+            9,
+            11,
+            214,
+            206
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_31.jpg": {
+        "bbox": [
+            58,
+            45,
+            104,
+            90
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_32.jpg": {
+        "bbox": [
+            25,
+            14,
+            174,
+            119
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_33.jpg": {
+        "bbox": [
+            24,
+            46,
+            181,
+            166
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_34.jpg": {
+        "bbox": [
+            11,
+            99,
+            130,
+            78
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_35.jpg": {
+        "bbox": [
+            69,
+            52,
+            95,
+            117
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_36.jpg": {
+        "bbox": [
+            54,
+            26,
+            131,
+            166
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_37.jpg": {
+        "bbox": [
+            93,
+            13,
+            65,
+            180
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_38.jpg": {
+        "bbox": [
+            101,
+            58,
+            54,
+            68
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_39.jpg": {
+        "bbox": [
+            25,
+            60,
+            103,
+            140
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_4.jpg": {
+        "bbox": [
+            8,
+            1,
+            217,
+            220
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_40.jpg": {
+        "bbox": [
+            28,
+            31,
+            115,
+            179
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_41.jpg": {
+        "bbox": [
+            42,
+            24,
+            138,
+            189
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_42.jpg": {
+        "bbox": [
+            46,
+            43,
+            128,
+            139
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_43.jpg": {
+        "bbox": [
+            112,
+            55,
+            91,
+            130
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_44.jpg": {
+        "bbox": [
+            65,
+            17,
+            86,
+            192
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_45.jpg": {
+        "bbox": [
+            55,
+            30,
+            112,
+            182
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_46.jpg": {
+        "bbox": [
+            22,
+            25,
+            128,
+            192
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_47.jpg": {
+        "bbox": [
+            60,
+            44,
+            103,
+            152
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_48.jpg": {
+        "bbox": [
+            119,
+            56,
+            72,
+            125
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_49.jpg": {
+        "bbox": [
+            32,
+            43,
+            161,
+            165
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_5.jpg": {
+        "bbox": [
+            77,
+            19,
+            88,
+            193
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_50.jpg": {
+        "bbox": [
+            56,
+            61,
+            117,
+            115
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_51.jpg": {
+        "bbox": [
+            24,
+            23,
+            178,
+            160
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_52.jpg": {
+        "bbox": [
+            96,
+            34,
+            107,
+            170
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_53.jpg": {
+        "bbox": [
+            36,
+            19,
+            176,
+            176
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_54.jpg": {
+        "bbox": [
+            31,
+            21,
+            175,
+            206
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_55.jpg": {
+        "bbox": [
+            53,
+            28,
+            134,
+            181
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_56.jpg": {
+        "bbox": [
+            41,
+            52,
+            136,
+            140
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_57.jpg": {
+        "bbox": [
+            10,
+            45,
+            195,
+            173
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_58.jpg": {
+        "bbox": [
+            87,
+            1,
+            134,
+            200
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_59.jpg": {
+        "bbox": [
+            93,
+            69,
+            84,
+            134
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_6.jpg": {
+        "bbox": [
+            146,
+            45,
+            51,
+            158
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_60.jpg": {
+        "bbox": [
+            72,
+            69,
+            145,
+            133
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_61.jpg": {
+        "bbox": [
+            20,
+            20,
+            190,
+            189
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_7.jpg": {
+        "bbox": [
+            45,
+            30,
+            140,
+            170
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_8.jpg": {
+        "bbox": [
+            29,
+            44,
+            165,
+            150
+        ],
+        "class": "mushroom"
+    },
+    "mushroom_9.jpg": {
+        "bbox": [
+            67,
+            38,
+            87,
+            134
+        ],
+        "class": "mushroom"
+    }
+}
