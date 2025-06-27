@@ -23,12 +23,16 @@ This project builds a simple object localizer using PyTorch and a labeled datase
     "class": "class2"
   }
 }
+```
 
 ## 🧪 How to Run
 
 ### ✅ Train the model
 ```bash
 python train.py
+```
 
 ### ✅ Visualize the bounding boxes
+```bash
 python test.py
+```
